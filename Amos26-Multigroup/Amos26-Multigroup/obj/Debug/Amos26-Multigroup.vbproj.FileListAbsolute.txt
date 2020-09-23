@@ -1,0 +1,4 @@
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-Multigroup.dll
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-Multigroup.pdb
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-Multigroup\Amos26-Multigroup\obj\Debug\Amos26-Multigroup.dll
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-Multigroup\Amos26-Multigroup\obj\Debug\Amos26-Multigroup.pdb
