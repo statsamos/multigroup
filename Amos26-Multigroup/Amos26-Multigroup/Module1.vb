@@ -12,6 +12,7 @@ Imports System.Collections.Generic
 <System.ComponentModel.Composition.Export(GetType(Amos.IPlugin))>
 Public Class CustomCode
     Implements IPlugin
+    'This plugin was updated 2022 by Joseph Steed
 
     Public Function Name() As String Implements IPlugin.Name
         Return "Multigroup"
@@ -269,7 +270,7 @@ Public Class CustomCode
         'References
         debug.PrintX("<strong>Significance Indicators:</strong><br>&#8224; p < 0.100<br>* p < 0.050<br>** p < 0.010<br>*** p < 0.001<br>")
         debug.PrintX("<p>--If you would like to cite this tool directly, please use the following:")
-        debug.PrintX("Gaskin, J. & Lim, J. (2018), ""Multigroup Analysis"", AMOS Plugin. <a href=""http://statwiki.kolobkreations.com"">Gaskination's StatWiki</a>.</p>")
+        debug.PrintX("Gaskin, J., Lim, J., and Steed, J. (2022), ""Multigroup Analysis"", AMOS Plugin. <a href=""http://statwiki.gaskination.com"">Gaskination's StatWiki</a>.</p>")
 
         'Write Style And close
         debug.PrintX("<style>table{border:1px solid black;border-collapse:collapse;}td{border:1px solid black;padding:5px;}th{text-weight:bold;padding:10px;border: 1px solid black;}")

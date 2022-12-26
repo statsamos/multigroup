@@ -2,3 +2,9 @@ C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-Multigroup.dl
 C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-Multigroup.pdb
 \\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-Multigroup\Amos26-Multigroup\obj\Debug\Amos26-Multigroup.dll
 \\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-Multigroup\Amos26-Multigroup\obj\Debug\Amos26-Multigroup.pdb
+C:\Users\squar\AppData\Local\AmosDevelopment\Amos\28\Plugins\Amos26-Multigroup.dll
+C:\Users\squar\AppData\Local\AmosDevelopment\Amos\28\Plugins\Amos26-Multigroup.pdb
+C:\Users\squar\source\statsamos\Multigroup\Amos26-Multigroup\Amos26-Multigroup\obj\Debug\Amos26-Multigroup.vbproj.AssemblyReference.cache
+C:\Users\squar\source\statsamos\Multigroup\Amos26-Multigroup\Amos26-Multigroup\obj\Debug\Amos26-Multigroup.vbproj.CoreCompileInputs.cache
+C:\Users\squar\source\statsamos\Multigroup\Amos26-Multigroup\Amos26-Multigroup\obj\Debug\Amos26-Multigroup.dll
+C:\Users\squar\source\statsamos\Multigroup\Amos26-Multigroup\Amos26-Multigroup\obj\Debug\Amos26-Multigroup.pdb
